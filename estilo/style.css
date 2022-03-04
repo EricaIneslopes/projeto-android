@@ -27,6 +27,7 @@
 body{
     background-color: #c5ebd6;
     font-family: var(--fonte-padrao);
+    
 }
 a.externo::after{
     content:'\00A0\1F517';
